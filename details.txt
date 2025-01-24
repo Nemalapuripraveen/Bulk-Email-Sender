@@ -1,0 +1,6 @@
+Praveen kumar,NEMALAPURI,7036782012,01-02-2000,MALE,praveenkunar2012@gmail.com
+Praveen kumar,nEMALAPURI,7036782012,01-02-2000,MALE,praveenkunar2012@gmail.com
+Praveen kumar,NEMALAPURI,70036782012,01-02-2000,MALE,praveenkunar2012@gmail.com
+Praveen kumar,NEMALAPURI,7036782012,010-02-2000,MALE,praveenkunar2012@gmail.com
+Praveen kumar,NEMALAPURI,7036782012,01-02-2000,male,praveenkunar2012@gmail.com
+Praveen kumar,NEMALAPURI,7036782012,01-02-2000,MALE,praveenkunar2012@hgfyig.com
